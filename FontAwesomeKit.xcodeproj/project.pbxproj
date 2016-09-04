@@ -86,30 +86,38 @@
 		AD6F202C1D6896B700DEF1F0 /* FontAwesomeKit */ = {
 			isa = PBXGroup;
 			children = (
-				AD6F20351D68970600DEF1F0 /* FAKFontAwesome.h */,
-				AD6F20371D68970600DEF1F0 /* FAKFoundationIcons.h */,
-				AD6F20391D68970600DEF1F0 /* FAKIcon.h */,
-				AD6F203B1D68970600DEF1F0 /* FAKIonIcons.h */,
-				AD6F203D1D68970600DEF1F0 /* FAKMaterialIcons.h */,
-				AD6F203F1D68970600DEF1F0 /* FAKOcticons.h */,
-				AD6F20411D68970600DEF1F0 /* FAKZocial.h */,
 				AD6F202D1D6896B800DEF1F0 /* FontAwesomeKit.h */,
+				C1ABE69B1D79D3D10053BD4C /* Abstract superclass */,
+				AD6F20351D68970600DEF1F0 /* FAKFontAwesome.h */,
 				AD6F20361D68970600DEF1F0 /* FAKFontAwesome.m */,
-				AD6F20381D68970600DEF1F0 /* FAKFoundationIcons.m */,
-				AD6F203A1D68970600DEF1F0 /* FAKIcon.m */,
-				AD6F203C1D68970600DEF1F0 /* FAKIonIcons.m */,
-				AD6F203E1D68970600DEF1F0 /* FAKMaterialIcons.m */,
-				AD6F20401D68970600DEF1F0 /* FAKOcticons.m */,
-				AD6F20421D68970600DEF1F0 /* FAKZocial.m */,
 				AD6F20431D68970600DEF1F0 /* FontAwesome.otf */,
-				AD6F20451D68970600DEF1F0 /* Info.plist */,
+				AD6F20371D68970600DEF1F0 /* FAKFoundationIcons.h */,
+				AD6F20381D68970600DEF1F0 /* FAKFoundationIcons.m */,
 				AD6F20441D68970600DEF1F0 /* foundation-icons.ttf */,
+				AD6F203B1D68970600DEF1F0 /* FAKIonIcons.h */,
+				AD6F203C1D68970600DEF1F0 /* FAKIonIcons.m */,
 				AD6F20461D68970600DEF1F0 /* ionicons.ttf */,
+				AD6F203D1D68970600DEF1F0 /* FAKMaterialIcons.h */,
+				AD6F203E1D68970600DEF1F0 /* FAKMaterialIcons.m */,
 				AD6F20471D68970600DEF1F0 /* Material-Design-Iconic-Font.ttf */,
+				AD6F203F1D68970600DEF1F0 /* FAKOcticons.h */,
+				AD6F20401D68970600DEF1F0 /* FAKOcticons.m */,
 				AD6F20481D68970600DEF1F0 /* octicons.ttf */,
+				AD6F20411D68970600DEF1F0 /* FAKZocial.h */,
+				AD6F20421D68970600DEF1F0 /* FAKZocial.m */,
 				AD6F20491D68970600DEF1F0 /* zocial-regular-webfont.ttf */,
+				AD6F20451D68970600DEF1F0 /* Info.plist */,
 			);
 			path = FontAwesomeKit;
+			sourceTree = "<group>";
+		};
+		C1ABE69B1D79D3D10053BD4C /* Abstract superclass */ = {
+			isa = PBXGroup;
+			children = (
+				AD6F20391D68970600DEF1F0 /* FAKIcon.h */,
+				AD6F203A1D68970600DEF1F0 /* FAKIcon.m */,
+			);
+			name = "Abstract superclass";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
